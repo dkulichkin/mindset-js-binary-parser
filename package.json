@@ -1,0 +1,20 @@
+{
+  "name": "mindset-js-binary-parser",
+  "version": "0.0.1",
+  "license": "MIT",
+  "author": {
+    "name": "Dmitry Kulichkin",
+    "url": "https://github.com/dkulichkin"
+  },
+  "description": "",
+  "keywords": [
+    "mindset",
+    "mindwave",
+    "neurosky",
+    "parser",
+    "javascript"
+  ],
+  "dependencies": {
+    "serialport": ">=1.2.5"
+  }
+}
